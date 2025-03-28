@@ -43,6 +43,19 @@ This project focuses on predicting the prices of Airbnb listings using machine l
 - Compared dataset variations with and without outliers.
 - Developed a regression model to predict price effectively.
 
+![Categorical Feature Analysis](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/Categorical%20Feature%20Analysis.jpg)
+
+![Correlation Analysis](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/Correlation%20Analysis.jpg)
+
+![With Outlier](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/With%20Outlier.jpg)
+
+![Without Outlier](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/Without%20Outlier.jpg)
+
+![Correlation Heatmap](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/correlation%20heatmap.jpg)
+
+![Scatterplot Matrix](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/scatterplot%20matrix.jpg)
+
+
 ## Author
 
 **Mirza Imaduddin**
