@@ -72,7 +72,7 @@ This project focuses on predicting the prices of Airbnb listings using machine l
 - Compared dataset variations with and without outliers.
 - Developed a regression model to predict price effectively.
 
-## 🏆 Tnsights from Visualizations
+## 🏆 Insights from Visualizations
 
 ### Correlation Analysis:
 
