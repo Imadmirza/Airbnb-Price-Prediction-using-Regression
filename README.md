@@ -30,17 +30,14 @@ This project focuses on predicting the prices of Airbnb listings using machine l
 - Plotted correlation heatmaps and scatterplots to understand dependencies.
 - Examined the distribution of features and target variable.
 
-#### Correlation Heatmap
-![Correlation Heatmap](EDA/correlation_heatmap.jpg)
+![Correlation Heatmap](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/correlation_heatmap.jpg)
 
-#### Scatterplot Matrix
-![Scatterplot Matrix](EDA/scatterplot_matrix.jpg)
+![Scatterplot Matrix](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/scatterplot_matrix.jpg)
 
-#### Dataset with Outliers
-![With Outliers](EDA/With_Outlier.jpg)
+![With Outliers](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/With_Outlier.jpg)
 
-#### Dataset without Outliers
-![Without Outliers](EDA/Without_Outlier.jpg)
+![Without Outliers](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/Without_Outlier.jpg)
+
 
 ### 4. Data Modeling
 
