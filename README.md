@@ -30,13 +30,13 @@ This project focuses on predicting the prices of Airbnb listings using machine l
 - Plotted correlation heatmaps and scatterplots to understand dependencies.
 - Examined the distribution of features and target variable.
 
-![Correlation Heatmap](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/correlation_heatmap.jpg)
+![Correlation Heatmap]([https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/correlation_heatmap.jpg](https://github.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/blob/main/correlation%20heatmap.jpg))
 
-![Scatterplot Matrix](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/scatterplot_matrix.jpg)
+![Scatterplot Matrix]([https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/scatterplot_matrix.jpg](https://github.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/blob/main/scatterplot%20matrix.jpg))
 
-![With Outliers](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/With_Outlier.jpg)
+![With Outliers]([https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/With_Outlier.jpg](https://github.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/blob/main/With%20Outlier.jpg))
 
-![Without Outliers](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/Without_Outlier.jpg)
+![Without Outliers]([https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/Without_Outlier.jpg](https://github.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/blob/main/Without%20Outlier.jpg))
 
 
 ### 4. Data Modeling
