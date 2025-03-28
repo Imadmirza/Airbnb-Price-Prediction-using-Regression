@@ -34,7 +34,7 @@ This project focuses on predicting the prices of Airbnb listings using machine l
 
 ![Scatterplot Matrix]([https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/scatterplot_matrix.jpg](https://github.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/blob/main/scatterplot%20matrix.jpg))
 
-![With Outliers]([https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/With_Outlier.jpg](https://github.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/blob/main/With%20Outlier.jpg))
+![With Outliers](https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/With_Outlier.jpg)
 
 ![Without Outliers]([https://raw.githubusercontent.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/main/Without_Outlier.jpg](https://github.com/Imadmirza/Airbnb-Price-Prediction-using-Regression/blob/main/Without%20Outlier.jpg))
 
