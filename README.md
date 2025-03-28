@@ -47,37 +47,6 @@ This project focuses on predicting the prices of Airbnb listings using machine l
 - Built a **Regression Model** to predict the price.
 - Evaluated model performance using metrics like RMSE and R-squared.
 
-## Folder Structure
-
-```
-📂 Project Root
-├── 📂 code                   # Python scripts and Jupyter notebooks
-├── 📂 Data ingestion and prep # Data collection & preprocessing scripts
-├── 📂 Dataset                # Raw and processed dataset
-├── 📂 EDA                    # Exploratory Data Analysis outputs
-│   ├── correlation_heatmap.jpg
-│   ├── scatterplot_matrix.jpg
-│   ├── With_Outlier.jpg
-│   ├── Without_Outlier.jpg
-├── requirements.txt          # List of dependencies
-├── End_to_end_air_bnb.ipynb  # Jupyter Notebook with full analysis
-├── Air_BNB.xlsx              # Processed dataset
-└── README.md                 # Project Documentation
-```
-
-## Requirements
-
-To run this project, install dependencies from `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
-## How to Use
-
-1. Open the Jupyter Notebook `End_to_end_air_bnb.ipynb`.
-2. Run all cells sequentially to process data and build the model.
-3. Check the results in the EDA and model evaluation sections.
 
 ## Results & Insights
 
